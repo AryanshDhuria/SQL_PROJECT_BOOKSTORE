@@ -1,4 +1,4 @@
-To provide the README as a file, I have formatted the code block below so you can click the **"Copy"** button and paste it directly into your `README.md` on GitHub.
+
 
 ```markdown
 # 📚 Bookstore Management System (SQL)
@@ -25,7 +25,6 @@ SQL_PROJECT_BOOKSTORE/
 ├── images/
 │   └── ERD_Diagram.png  # Database visualization
 └── README.md            # Project documentation
-
 ```
 
 ---
