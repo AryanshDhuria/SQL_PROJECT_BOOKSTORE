@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📚 Bookstore Management System (SQL)
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
